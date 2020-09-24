@@ -1,0 +1,17 @@
+G:\evedev\melt\melt\bin\Debug\melt.exe.config
+G:\evedev\melt\melt\bin\Debug\melt.exe
+G:\evedev\melt\melt\bin\Debug\melt.pdb
+G:\evedev\melt\melt\obj\Debug\melt.csprojAssemblyReference.cache
+G:\evedev\melt\melt\obj\Debug\melt.Form1.resources
+G:\evedev\melt\melt\obj\Debug\melt.Properties.Resources.resources
+G:\evedev\melt\melt\obj\Debug\melt.csproj.GenerateResource.cache
+G:\evedev\melt\melt\obj\Debug\melt.csproj.CoreCompileInputs.cache
+G:\evedev\melt\melt\obj\Debug\melt.exe
+G:\evedev\melt\melt\obj\Debug\melt.pdb
+G:\evedev\melt\melt\bin\Debug\ISXEVEWrapper.dll
+G:\evedev\melt\melt\bin\Debug\Lavish.InnerSpace.dll
+G:\evedev\melt\melt\bin\Debug\Lavish.LavishNav.dll
+G:\evedev\melt\melt\bin\Debug\ISXEVEWrapper.xml
+G:\evedev\melt\melt\bin\Debug\Lavish.InnerSpace.xml
+G:\evedev\melt\melt\bin\Debug\Lavish.LavishNav.xml
+G:\evedev\melt\melt\obj\Debug\melt.csproj.CopyComplete
